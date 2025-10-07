@@ -1,8 +1,8 @@
-# Install script for directory: /home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/linux/flutter
+# Install script for directory: /home/ak/Downloads/flutter/linux/flutter
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/build/linux/x64/debug/bundle")
+  set(CMAKE_INSTALL_PREFIX "/home/ak/Downloads/flutter/build/linux/x64/debug/bundle")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

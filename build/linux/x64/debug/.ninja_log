@@ -1,29 +1,29 @@
 # ninja log v5
-1	21668	0	/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/linux/flutter/ephemeral/libflutter_linux_gtk.so	35c02979e7584754
-1	21668	0	/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	35c02979e7584754
-1	21668	0	/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	35c02979e7584754
-1	21668	0	/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	35c02979e7584754
-1	21668	0	/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	35c02979e7584754
-1	21668	0	/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_engine.h	35c02979e7584754
-1	21668	0	/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	35c02979e7584754
-1	21668	0	/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	35c02979e7584754
-1	21668	0	/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	35c02979e7584754
-1	21668	0	/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	35c02979e7584754
-1	21668	0	/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	35c02979e7584754
-1	21668	0	/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	35c02979e7584754
-1	21668	0	/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	35c02979e7584754
-1	21668	0	/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	35c02979e7584754
-1	21668	0	/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	35c02979e7584754
-1	21668	0	/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	35c02979e7584754
-1	21668	0	/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	35c02979e7584754
-1	21668	0	/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	35c02979e7584754
-1	21668	0	/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_value.h	35c02979e7584754
-1	21668	0	/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/linux/flutter/ephemeral/flutter_linux/fl_view.h	35c02979e7584754
-1	21668	0	/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	35c02979e7584754
-1	21668	0	flutter/_phony_	35c02979e7584754
-1	21668	0	/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/build/linux/x64/debug/flutter/_phony_	35c02979e7584754
-21669	22604	1759706901588914809	CMakeFiles/flutter_application_1.dir/flutter/generated_plugin_registrant.cc.o	dc51acb62497e8ca
-21668	22610	1759706901596914950	CMakeFiles/flutter_application_1.dir/main.cc.o	6024dd2bf759329f
-21669	22711	1759706901700916772	CMakeFiles/flutter_application_1.dir/my_application.cc.o	784e4df22f537ff1
-22711	22821	1759706901816314869	intermediates_do_not_run/flutter_application_1	d17b4467ad0a92e9
-22821	23067	0	CMakeFiles/install.util	c6362c69e79a84f1
+0	10964	0	/home/ak/Downloads/flutter/linux/flutter/ephemeral/libflutter_linux_gtk.so	80da9e2799596876
+0	10964	0	/home/ak/Downloads/flutter/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	80da9e2799596876
+0	10964	0	/home/ak/Downloads/flutter/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	80da9e2799596876
+0	10964	0	/home/ak/Downloads/flutter/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	80da9e2799596876
+0	10964	0	/home/ak/Downloads/flutter/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	80da9e2799596876
+0	10964	0	/home/ak/Downloads/flutter/linux/flutter/ephemeral/flutter_linux/fl_engine.h	80da9e2799596876
+0	10964	0	/home/ak/Downloads/flutter/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	80da9e2799596876
+0	10964	0	/home/ak/Downloads/flutter/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	80da9e2799596876
+0	10964	0	/home/ak/Downloads/flutter/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	80da9e2799596876
+0	10964	0	/home/ak/Downloads/flutter/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	80da9e2799596876
+0	10964	0	/home/ak/Downloads/flutter/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	80da9e2799596876
+0	10964	0	/home/ak/Downloads/flutter/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	80da9e2799596876
+0	10964	0	/home/ak/Downloads/flutter/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	80da9e2799596876
+0	10964	0	/home/ak/Downloads/flutter/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	80da9e2799596876
+0	10964	0	/home/ak/Downloads/flutter/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	80da9e2799596876
+0	10964	0	/home/ak/Downloads/flutter/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	80da9e2799596876
+0	10964	0	/home/ak/Downloads/flutter/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	80da9e2799596876
+0	10964	0	/home/ak/Downloads/flutter/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	80da9e2799596876
+0	10964	0	/home/ak/Downloads/flutter/linux/flutter/ephemeral/flutter_linux/fl_value.h	80da9e2799596876
+0	10964	0	/home/ak/Downloads/flutter/linux/flutter/ephemeral/flutter_linux/fl_view.h	80da9e2799596876
+0	10964	0	/home/ak/Downloads/flutter/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	80da9e2799596876
+0	10964	0	flutter/_phony_	80da9e2799596876
+0	10964	0	/home/ak/Downloads/flutter/build/linux/x64/debug/flutter/_phony_	80da9e2799596876
+10964	11583	1759797512080824574	CMakeFiles/flutter_application_1.dir/main.cc.o	f45ea9befd0731b3
+10965	11611	1759797512109824974	CMakeFiles/flutter_application_1.dir/flutter/generated_plugin_registrant.cc.o	306b1b2e07eedc62
+10965	11660	1759797512155825607	CMakeFiles/flutter_application_1.dir/my_application.cc.o	6b7fc2041525df3b
+11661	11716	1759797512220660695	intermediates_do_not_run/flutter_application_1	833f48be9fe59055
+11716	12085	0	CMakeFiles/install.util	2f1ea2befa9544fc

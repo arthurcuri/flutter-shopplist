@@ -1,12 +1,13 @@
-/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/build/linux/x64/debug/bundle/flutter_application_1
-/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/build/linux/x64/debug/bundle/data/icudtl.dat
-/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
-/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
-/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
-/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
-/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/version.json
-/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
-/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
-/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
-/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
-/home/ak/All Windows/software/Atividades/5° Periodo - 2025/LAB - Desenvolvimento de Aplicações Móveis e Distribuídas/Roteiro 04/flutter_application_1/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/ak/Downloads/flutter/build/linux/x64/debug/bundle/flutter_application_1
+/home/ak/Downloads/flutter/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/ak/Downloads/flutter/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/ak/Downloads/flutter/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/ak/Downloads/flutter/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/ak/Downloads/flutter/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/ak/Downloads/flutter/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/ak/Downloads/flutter/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/ak/Downloads/flutter/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/ak/Downloads/flutter/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/ak/Downloads/flutter/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/ak/Downloads/flutter/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/ak/Downloads/flutter/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
